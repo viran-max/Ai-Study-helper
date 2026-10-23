@@ -1,0 +1,37 @@
+.inp {
+  padding: 15px;
+  border-radius: 20px;
+   border:2px solid black;
+}
+
+button {
+  padding: 15px;
+  border:2px solid black;
+  border-radius: 20px;
+  background-color: blue;
+  color: black;
+  font-size: 17px;
+}
+button:hover {
+  
+  color: white;
+  font-size: 17px;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.output{
+    border:2px solid black;
+    border-radius:10px;
+    padding:10px;
+    margin: 15px;
+    color:black;
+    font-size: 18px;
+}
